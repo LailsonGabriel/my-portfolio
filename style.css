@@ -1,0 +1,62 @@
+#my_Name {
+    font-family: ubuntu;
+    color: white;
+    text-transform: uppercase;
+}
+
+#description {
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+body {
+    background-color: #484D6D;
+}
+
+#trybe_strong {
+    color: white;
+    background-color: green;
+}
+
+.HTML a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.CSS a{
+    text-decoration: none;
+    color: turquoise;
+    font-size: 20px;
+}
+
+.JS a{
+    text-decoration: NONE;
+    font-size: 20px;
+    color: tomato;
+}
+
+.python a {
+    background-color: rebeccapurple;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.HTML_desc {
+    color: white;
+}
+
+.css_desc {
+    color: turquoise;
+}
+
+.Js_desc {
+    color: tomato;
+}
+
+.python_desc {
+    color: white;
+    background-color: rebeccapurple;
+    width: 80px;
+}
