@@ -11,6 +11,7 @@
 
 body {
     background-color: #484D6D;
+    padding: 3%;
 }
 
 #trybe_strong {
@@ -59,4 +60,40 @@ body {
     color: white;
     background-color: rebeccapurple;
     width: 80px;
+}
+
+.nome {
+    text-align: center;
+}
+
+.foto {
+    width: 300px;
+    float: left;
+    background-color: black;
+    padding: 5px;
+}
+
+.image_container {
+    height: 300px;
+    position: relative;
+}
+
+.image_container p {
+    position: absolute;
+    top: 36%;
+    right: 0px;
+    text-align: center;
+    width: 600px;
+}
+
+.links {
+    margin-top: 30px;
+}
+
+.links a {
+    color: white;
+}
+
+ul li:nth-child(odd) {
+    background-color: grey;
 }
